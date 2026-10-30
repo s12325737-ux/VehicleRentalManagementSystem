@@ -1,0 +1,309 @@
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 1
+Car ID: C101
+Brand: Toyota
+Model: Camry
+Seats: 5
+Transmission: Automatic
+Motorcycle ID: M101
+Brand: Honda
+Model: CBR
+Engine Capacity: 600
+Truck ID: T101
+Brand: Volvo
+Model: FH16
+Max Load: 10.0
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 2
+Customer ID: CU101
+Name: Ayat
+Phone: 0791234567
+Email: ayat@gmail.com
+License: DL1001
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 3
+Rental ID: R101
+Customer: Ayat
+Vehicle: C101
+Days: 4
+Cost: 300.0
+Status: Active
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 4
+Motorcycle ID: M101
+Brand: Honda
+Model: CBR
+Engine Capacity: 600
+Truck ID: T101
+Brand: Volvo
+Model: FH16
+Max Load: 10.0
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 5
+Enter Vehicle ID: C101
+Car ID: C101
+Brand: Toyota
+Model: Camry
+Seats: 5
+Transmission: Automatic
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 6
+Enter Rental ID: C101
+Rental not found.
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 7
+Total Revenue = 0.0
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 8
+Enter Vehicle ID: C101
+Vehicle flagged for maintenance.
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 9
+Car ID: C101
+Brand: Toyota
+Model: Camry
+Seats: 5
+Transmission: Automatic
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 10
+Enter Vehicle ID: C101
+Maintenance completed.
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 11
+Customer ID: CU101
+Name: shahd
+Phone: 0599
+Email: sh@
+License Number: 20
+Customer Added.
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 12
+1. Car
+2. Motorcycle
+3. Truck
+1
+Vehicle ID: C101
+Brand: toyota
+Model: 99
+Year: 2020
+Price Per Day: 40
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 13
+Rental ID: C1001
+Customer ID: C2020
+Vehicle ID: B203
+Days: 3
+Invalid Customer or Vehicle.
+
+===== Vehicle Rental System =====
+1. Display Vehicles
+2. Display Customers
+3. Display Rentals
+4. Display Available Vehicles
+5. Search Vehicle
+6. Return Vehicle
+7. Calculate Revenue
+8. Flag Vehicle For Maintenance
+9. Display Vehicles Needing Maintenance
+10. Perform Maintenance
+11. Register Customer
+12. Add Vehicle
+13. Rent Vehicle
+0. Exit
+Enter Choice: 0
+Program Ended
